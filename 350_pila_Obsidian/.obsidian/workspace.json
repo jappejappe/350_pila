@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "f454549e92ac35fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "75961b3f14d08dc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c164199483a3aebe",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "brainstorm/estrutura_game.canvas",
+                "viewState": {
+                  "x": -370.1959525977857,
+                  "y": -1067.6848729124972,
+                  "zoom": -0.8283727033266877
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "estrutura_game"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c51f10580f99644",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bbc7762a9066c02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb92a2cf62050754",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "6a1089a03f074b6b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "f826406614af8f97",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "55e53933b1f8e6eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1e0fc3d646ad8cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d829481d1dfe6b97",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "brainstorm/estrutura_game.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para estrutura_game"
+            }
+          },
+          {
+            "id": "5d7e4ec0305d53f6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "brainstorm/estrutura_game.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para estrutura_game"
+            }
+          },
+          {
+            "id": "3459b7d4c4a9821b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4dfeb2e1a2cae1ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "brainstorm/estrutura_game.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de estrutura_game"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "c164199483a3aebe",
+  "lastOpenFiles": [
+    "brainstorm/HISTORIA/Protagonista.md",
+    "brainstorm/MECANICAS/Progressao.md",
+    "brainstorm/estrutura_game.canvas",
+    "brainstorm/HISTORIA/Universo.md",
+    "imagens/gala.png",
+    "imagens",
+    "Pasted image 20241229032229.png",
+    "brainstorm/GAME/Plataforma.md",
+    "brainstorm/GAME/Estilo.md",
+    "brainstorm/HISTORIA",
+    "brainstorm/MECANICAS",
+    "brainstorm/Enredo.md",
+    "brainstorm/GAME/Estilo_visual.md",
+    "Sem título.canvas",
+    "2024-12-29.md",
+    "brainstorm/GAME/Nome.md",
+    "brainstorm/GAME",
+    "Welcome.md",
+    "brainstorm"
+  ]
+}
